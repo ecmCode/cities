@@ -20,7 +20,7 @@ function App() {
             <SiTailwindcss className='text-5xl mx-2 hover:text-cyan-100 transition'/>
           </a>
           </div>
-        <div className='text-center text-3xl'>Boilerplate</div>
+        <div className='text-center text-3xl'>test</div>
       </section>
     </main>
   )
