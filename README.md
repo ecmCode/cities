@@ -1,1 +1,2 @@
-# react + vite + tailwindcss boilerplate
+# Cities in the world
+https://ecmcode.github.io/cities/
