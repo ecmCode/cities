@@ -1,18 +1,19 @@
 {
-  "name": "react-vite-tailwind-boilerplate",
-  "private": true,
-  "version": "0.0.0",
+  "name": "cities",
+  "private": false,
+  "version": "0.0.1",
   "type": "module",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
     "preview": "vite preview",
-    "dist":"git add dist -f & git commit",
+    "dist": "git add dist -f & git commit",
     "page": "git subtree push --prefix dist origin gh-pages",
     "init": "npm install & git remote remove origin "
   },
   "dependencies": {
     "autoprefixer": "^10.4.13",
+    "cities.json": "^1.1.14",
     "postcss": "^8.4.19",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",

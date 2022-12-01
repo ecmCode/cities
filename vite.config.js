@@ -3,10 +3,10 @@ import react from '@vitejs/plugin-react'
 
 // https://vitejs.dev/config/
 export default defineConfig({
-  base:'/test/',
+  base:'/cities/',
   // base:'', # change to any on production.
   plugins: [react()],
   server: {
-    open: '/test/'
+    open: '/cities/'
   },
 })
